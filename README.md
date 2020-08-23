@@ -1,0 +1,1 @@
+This is an assortment of Ruby projects that I have worked on to learn Ruby.
